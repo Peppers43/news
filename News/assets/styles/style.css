@@ -9,7 +9,7 @@
 @import "contact.css";
 @import "thank-you.css";
 @import "footer.css";
-
+@import "background.css";
 * {
   margin: 0px;
   padding: 0px;
@@ -25,3 +25,4 @@ html, body {
   max-width: 1280px;
   margin: 0 auto;
 }
+

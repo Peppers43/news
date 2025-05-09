@@ -28,6 +28,36 @@
   display: none;
 }
 
+#header {
+  background: black;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFFFFF;
+  padding: 24px 20px;
+}
+
+.nav-links {
+  display: flex;
+  gap: 24px;
+}
+
+.nav-links li {
+  list-style: none;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.menu-toggle {
+  display: none;
+}
+
 .menu-btn {
   display: none;
   font-size: 24px;
